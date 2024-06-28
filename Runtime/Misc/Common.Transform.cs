@@ -15,7 +15,7 @@ namespace VirtueSky.Misc
 
             return transform;
         }
-        
+
         /// <summary>
         /// Convert UI positon to world position
         /// </summary>
