@@ -2,7 +2,7 @@
   "name": "com.wolf-package.extensions",
   "displayName": "UnityCommon-Extensions",
   "description": "Extensions for Unity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.3",
   "category": "virtuesky",
   "license": "MIT",
@@ -12,7 +12,10 @@
     "url": "https://github.com/VirtueSky"
   },
   "keywords": [
-    "Unity", "Common", "Extensions","UnityExtensions"
+    "Unity",
+    "Common",
+    "Extensions",
+    "UnityExtensions"
   ],
   "dependencies": {}
 }
