@@ -1,0 +1,20 @@
+{
+    "name": "UnityCommon.Inspector.Editor.Extras",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InternalAPIEditorBridge.013",
+        "UnityCommon.Inspector.Editor",
+        "UnityCommon.Inspector"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

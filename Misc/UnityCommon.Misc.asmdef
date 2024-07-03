@@ -1,0 +1,19 @@
+{
+    "name": "UnityCommon.Misc",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c25c05f410a3a447a75c3b0909152ef",
+        "GUID:68765d262e2128e4ab49c983f3411946",
+        "GUID:72d1fea872bd7a449bf3818f2b0a6708",
+        "GUID:7be4b92359ce2d8459bbb5183b835c1a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
