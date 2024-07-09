@@ -23,9 +23,9 @@
 
 ### Add the line below to `Packages/manifest.json`
 
-for version `1.0.2`
+for version `1.0.3`
 ```csharp
-"com.wolf-package.extensions":"https://github.com/wolf-package/extensions-unity.git#1.0.2",
+"com.wolf-package.extensions":"https://github.com/wolf-package/extensions-unity.git#1.0.3",
 ```
 ## Use
 - [Document](https://github.com/wolf-package/extensions-unity/wiki)
