@@ -17,15 +17,19 @@
 </p>
 
 ## What
- - Some extensions for game unity
+
+- Some extensions for game unity
 
 ## How To Install
 
 ### Add the line below to `Packages/manifest.json`
 
-for version `1.0.5`
+for version `1.0.6`
+
 ```csharp
-"com.wolf-org.extensions":"https://github.com/unity-package/extensions-unity.git#1.0.5",
+"com.wolf-org.extensions":"https://github.com/unity-package/extensions-unity.git#1.0.6",
 ```
+
 ## Use
+
 - [Document](https://github.com/wolf-package/extensions-unity/wiki)
